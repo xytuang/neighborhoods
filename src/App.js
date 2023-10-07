@@ -1,6 +1,6 @@
 import './App.css'
-import Map from './components/Map'
 import Search from './components/Search'
+import Map from './components/Map'
 
 function App() {
     return (
